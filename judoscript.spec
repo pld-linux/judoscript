@@ -5,7 +5,7 @@ Version:	0.9
 Release:	1
 License:	LGPL
 Group:		Development/Languages
-Source0:	http://www.judoscript.com/store/judoscript-0.9.zip
+Source0:	http://www.judoscript.com/store/%{name}-%{version}.zip
 # Source0-md5:	0b0ebf98e2bf25e0404dd1acb3554b92
 URL:		http://www.judoscript.com/
 BuildRequires:	unzip
