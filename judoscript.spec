@@ -1,5 +1,5 @@
 Summary:	JudoScript programming language
-Summary(pl):	Jêzyk programowania JudoScript
+Summary(pl.UTF-8):   JÄ™zyk programowania JudoScript
 Name:		judoscript
 Version:	0.9
 Release:	1
@@ -26,19 +26,19 @@ programming for most of today's popular computing areas, making their
 uses easy, effective and elegant. It is a higher-level language
 integrated in a robust, general-purpose Java scripting environment.
 
-%description -l pl
-JudoScript to jêzyk skryptowy ogólnego przeznaczenia dla Javy o wielu
-zastosowaniach. To oznacza, ¿e ma trzy ¶ci¶le zintegrowane czê¶ci: a)
-jêzyk skryptowy ogólnego przeznaczenia, b) w pe³ni funkcjonalne
-narzêdzie skryptowe dla Javy, c) obs³ugê wielu cech zale¿nych od
+%description -l pl.UTF-8
+JudoScript to jÄ™zyk skryptowy ogÃ³lnego przeznaczenia dla Javy o wielu
+zastosowaniach. To oznacza, Å¼e ma trzy Å›ciÅ›le zintegrowane czÄ™Å›ci: a)
+jÄ™zyk skryptowy ogÃ³lnego przeznaczenia, b) w peÅ‚ni funkcjonalne
+narzÄ™dzie skryptowe dla Javy, c) obsÅ‚ugÄ™ wielu cech zaleÅ¼nych od
 zastosowania. JudoScript jest zaprojektowany i zaimplementowany w
-czystej Javie, narodzi³ siê z potrzeb u¿ywania bogactwa w platformach
+czystej Javie, narodziÅ‚ siÄ™ z potrzeb uÅ¼ywania bogactwa w platformach
 Javy (J2SE i J2EE). Jego projekt obejmuje filozofie 3GL i 4GL,
-dostarczaj±c nie tylko silne wsparcie dla programowania, ale tak¿e
-specjalne mechanizmy do programowania WYSIWYG dla wiêkszo¶ci teraz
-popularnych zastosowañ, co czyni u¿ywanie jêzyka ³atwym, efektywnym i
-eleganckim. Jest to jêzyk wy¿szego poziomu zintegrowany w silnym
-¶rodowisku skryptowym Javy ogólnego przeznaczenia.
+dostarczajÄ…c nie tylko silne wsparcie dla programowania, ale takÅ¼e
+specjalne mechanizmy do programowania WYSIWYG dla wiÄ™kszoÅ›ci teraz
+popularnych zastosowaÅ„, co czyni uÅ¼ywanie jÄ™zyka Å‚atwym, efektywnym i
+eleganckim. Jest to jÄ™zyk wyÅ¼szego poziomu zintegrowany w silnym
+Å›rodowisku skryptowym Javy ogÃ³lnego przeznaczenia.
 
 %prep
 %setup -q
