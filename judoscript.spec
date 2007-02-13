@@ -1,5 +1,5 @@
 Summary:	JudoScript programming language
-Summary(pl.UTF-8):   Język programowania JudoScript
+Summary(pl.UTF-8):	Język programowania JudoScript
 Name:		judoscript
 Version:	0.9
 Release:	1
